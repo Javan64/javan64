@@ -6,21 +6,20 @@
   - 
 - <b>Wireshark Project
 - 
-- <b>SQL</b>
+- <b>Botium Toys</b>
+
   - 
-- <b>Python
+- <b>
 
-- Cybersecurity incident report
-- Botium Toys: Scope, goals, and risk assessment report
-- Controls and compliance checklist
+- 
+- [Botium Toys: Scope, goals, and risk assessment report] https://docs.google.com/document/d/1T6cGe1Wkq-8b_1V0jd2y1BsJqzSnBL9NfPvRerws788/edit#heading=h.evidx83t54sc
+- [Controls and compliance checklist] https://docs.google.com/document/d/1rn2vef2dLJZG1YkDJSiKIz8aYHPKmAMuDa_LrpDwOBE/edit
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Analyzing network attacks</h2>
+-[Scenario] https://docs.google.com/document/d/1iR6fMjjmC1gwY2iADhmD0bE2ETunzUJaE2QdvbaWHJs/edit
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+-[Cybersecurity incident report] https://docs.google.com/document/d/1HX80AYncHa1esUA5_EUJqz-Ol6Eux7j79oS5b_RkcYQ/edit#heading=h.ga3b0p20jb1 
+
 
 <h2> 🤳 Connect with me:</h2>
 
