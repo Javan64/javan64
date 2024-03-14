@@ -5,7 +5,7 @@
 - [Active Directory Building My SOC Home Lab] url section
   - 
 - <b>Wireshark Project
-- 
+- [Burp suite lab- web application security/penetration testing] https://docs.google.com/document/d/1mbPQl7_L1V1Wu_0KZLBPfV-mVAHmSXeARCV-oSY8pIk/edit?usp=sharing
 - <b></b>
 
   - 
