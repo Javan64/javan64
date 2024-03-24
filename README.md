@@ -6,7 +6,7 @@
   - 
 - <b>Wireshark Project
 - [Burp suite lab-Lab: Excessive trust in client-side controls] https://docs.google.com/document/d/1mbPQl7_L1V1Wu_0KZLBPfV-mVAHmSXeARCV-oSY8pIk/edit?usp=sharing
-- <b></b>
+- [Burp suite lab:Setting up a target scope https://docs.google.com/document/d/1SsWG4EhH_bG7iA1vGWVpddw7gz3RHuSQVwya_a4Rqwk/edit?usp=sharing
 
   - 
 
