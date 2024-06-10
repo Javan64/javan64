@@ -1,13 +1,13 @@
 <h1>Hi, I'm Javan!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - 
+
 - [Burp suite lab: performing a 2FA simple bypass] https://docs.google.com/document/d/11roolb_bLgY_BbRPrLtQynalTm2gpTMkzuhIAkRcEeM/edit?usp=sharing
 - [Burp suite Lab: Excessive trust in client-side controls] https://docs.google.com/document/d/1mbPQl7_L1V1Wu_0KZLBPfV-mVAHmSXeARCV-oSY8pIk/edit?usp=sharing
 - [Burp suite lab: Setting up a target scope] https://docs.google.com/document/d/1SsWG4EhH_bG7iA1vGWVpddw7gz3RHuSQVwya_a4Rqwk/edit?usp=sharing
 - [Burp suite lab: Username enumeration via different responses] https://docs.google.com/document/d/1BKzmLrOpYbYnmDT-W1Wkn7tVZN0asBWg_oTSD6LjN6s/edit?usp=sharing
-- [Burp suite lab: Lab: Stored XSS into HTML context with nothing encoded] https://docs.google.com/document/d/1pAuogMtKstACdSyH6zOg-POsQ-yqlBElX1NMVj6ZYKE/edit
--
+- [Burp suite lab: Stored XSS into HTML context with nothing encoded] https://docs.google.com/document/d/1pAuogMtKstACdSyH6zOg-POsQ-yqlBElX1NMVj6ZYKE/edit
+- [Burp suite lab: Lab: Reflected XSS into HTML context with nothing encoded] https://docs.google.com/document/d/1ZKilGsLam7JdVhCmXTozimW82W5kREtfDUGsBTEtUbk/edit
 
 -------
 -[Investigating an incident using SQL] project https://docs.google.com/document/d/1jYGfNkmlmDJjHU7lo6GnQBw-QhFiF5IW8K3JgBryl1M/edit
